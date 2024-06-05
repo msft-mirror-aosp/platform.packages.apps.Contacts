@@ -151,7 +151,7 @@
     <string name="contact_directory_description" msgid="1773630547110881835">"Hakemisto <xliff:g id="TYPE">%1$s</xliff:g>"</string>
     <string name="activity_title_settings" msgid="4004290638426915162">"Asetukset"</string>
     <string name="menu_settings" msgid="3524924670246877187">"Asetukset"</string>
-    <string name="menu_help" msgid="287801702920372292">"Ohje ja palaute"</string>
+    <string name="menu_help" msgid="287801702920372292">"Ohjeet ja palaute"</string>
     <string name="organization_entry_two_field" msgid="6034934619269052455">"<xliff:g id="FIRST">%1$s</xliff:g> • <xliff:g id="SECOND">%2$s</xliff:g>"</string>
     <string name="organization_entry_all_field" msgid="6724345890324437167">"<xliff:g id="COMPANY">%1$s</xliff:g> • <xliff:g id="DEPARTMENT">%2$s</xliff:g> • <xliff:g id="TITLE">%3$s</xliff:g>"</string>
     <string name="non_phone_caption" msgid="7343449684187013327">"Puhelinnumero"</string>
@@ -458,7 +458,7 @@
     <string name="about_open_source_licenses" msgid="1617836621315557445">"Avoimen lähdekoodin käyttöluvat"</string>
     <string name="about_open_source_licenses_summary" msgid="4843627659117423491">"Avoimen lähdekoodin ohjelmiston käyttöluvan tiedot"</string>
     <string name="about_privacy_policy" msgid="4581488375200402678">"Tietosuojakäytäntö"</string>
-    <string name="about_terms_of_service" msgid="7419670771785057738">"Palveluehdot"</string>
+    <string name="about_terms_of_service" msgid="7419670771785057738">"Käyttöehdot"</string>
     <string name="activity_title_licenses" msgid="6434398894019119709">"Avoimen lähdekoodin käyttöluvat"</string>
     <string name="url_open_error_toast" msgid="4885855620824048385">"URL-osoitteen avaus epäonnistui."</string>
     <string name="account_filter_view_checked" msgid="4740544238806346376">"<xliff:g id="ACCOUNT_INFO">%s</xliff:g>, valittu"</string>
